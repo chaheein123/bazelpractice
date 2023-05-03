@@ -1,0 +1,4 @@
+# bazel-bazelpractice
+# bazel-bin bazel-out bazel-testlogs
+
+bazel-*
